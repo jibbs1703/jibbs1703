@@ -36,9 +36,11 @@ Data Analyst | Data Scientist | Machine Learning Engineer </pre></h2>
 <img src="https://skillicons.dev/icons?i=react" height="25" alt="react logo"/>
 <img src="https://skillicons.dev/icons?i=aws" height="25" alt="aws logo"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="25" alt="FastAPI logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" alt="github logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="25" alt="terraform logo"  />
 </div>
 <br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibbs1703&show_icons=true&locale=en&layout=compact" alt="Abraham Ajibade Top Languages" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=jibbs1703&show_icons=true&locale=en&layout=compact" alt="Abraham Ajibade GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/?username=jibbs1703&exclude_repo=jibbs1703,jibbs1703.github.io&show_icons=true&locale=en&layout=compact" alt="Abraham Ajibade GitHub Stats" /></p>
